@@ -1,0 +1,26 @@
+{
+  "name": "quiz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "live-server",
+    "deploy": "gh-pages -d ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikolaPokrajac/Quiz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikolaPokrajac/Quiz/issues"
+  },
+  "homepage": "https://github.com/nikolaPokrajac/Quiz#readme",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
